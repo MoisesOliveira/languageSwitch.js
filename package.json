@@ -1,0 +1,28 @@
+{
+  "name": "languageswitch",
+  "version": "1.0.0",
+  "description": "Have content in many languages very easy with this package",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/MoisesOliveira/languageSwitch.js.git"
+  },
+  "keywords": [
+    "multi-language",
+    "languages",
+    "idiomas",
+    "translate"
+  ],
+  "author": "Moises Oliveira",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/MoisesOliveira/languageSwitch.js/issues"
+  },
+  "homepage": "https://github.com/MoisesOliveira/languageSwitch.js#readme",
+  "dependencies": {
+    "jest": "^27.4.7"
+  }
+}
