@@ -1,6 +1,6 @@
+export {default as changeLanguage} from "./changeLanguage";
 
-const greet = () =>{
-    return "Greetings"
-}
+export {default as chooseLanguage} from './chooseLanguage';
 
-module.exports = greet;
+export {default as createSelectElement} from './createSelectElement';
+
