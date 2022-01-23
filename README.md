@@ -4,7 +4,7 @@
 
 
 # languageSwitch.js
-Switch of languages very easily with this library on your website.
+Switch of languages very easily with this library on your website with one array variable and some functions.
 
 ## To install:
 ```
