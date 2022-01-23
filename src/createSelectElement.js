@@ -3,7 +3,7 @@ const chooseLanguage = require('./chooseLanguage.js')
 
 let createSelectElement = (languagesArray) =>{
     let selectElement = document.createElement('select')
-
+    selectElement.className = "language-select"
    document.body.append(selectElement)
 
   let defaultOption = document.createElement('option')
