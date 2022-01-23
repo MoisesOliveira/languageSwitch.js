@@ -1,6 +1,8 @@
-export {default as changeLanguage} from "./changeLanguage";
+const createSelectElement = require('./createSelectElement');
 
-export {default as chooseLanguage} from './chooseLanguage';
-
-export {default as createSelectElement} from './createSelectElement';
+module.exports = {
+    changeLanguage: require('./changeLanguage'),
+    chooseLanguage: require('./chooseLanguage'),
+    createSelectElement: require('./createSelectElement')
+}
 
