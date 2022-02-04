@@ -4,7 +4,7 @@
 
 
 # languageSwitch.js
-Craete multi-language content inside you web app very easily with this library. 🌞
+Craete multi-language content inside you web aplication very easily with this library. 🌞
 
 ## How to install:
 ```
